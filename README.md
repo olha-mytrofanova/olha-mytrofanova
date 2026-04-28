@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Olha 👋
 
-<!--
-**olha-mytrofanova/olha-mytrofanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data & Reporting Analyst based in Switzerland 🇨🇭  
+I turn raw data into clear insights and visual stories.
 
-Here are some ideas to get you started:
+## 🛠 Stack
+SQL · Python · Tableau · Power BI · Excel · JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- 🔗 [Sales & Marketing Dashboard](https://github.com/olha-mytrofanova/Sales-Marketing-Dashboard-) — end-to-end analytics: raw data → KPIs → insights
+- 🔗 [Marketing Report Automation](https://github.com/olha-mytrofanova/marketing-report-automation) — Python script that auto-generates HTML performance reports
+- 🔗 [PennyWay](https://github.com/olha-mytrofanova/penny-way) — personal budget tracker
+
+## 📫 Let's connect
+[LinkedIn](https://linkedin.com/in/olha-mytrofanova) · olha.mytrofanova@powercoders.org
